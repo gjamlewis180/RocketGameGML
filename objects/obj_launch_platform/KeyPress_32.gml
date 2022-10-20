@@ -1,9 +1,11 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description setting up rocket start location
+//set up where to place the rocket in relation to lanch 
+//platform when button is pressed and replaces
+//sprite for the launch platform.
 
 
 
-//set up where to place the rocket in relation to lanch platform
+
 var _xx = obj_launch_platform.x+157*dsin(abs(image_angle));
 var _yy =obj_launch_platform.y-( 157* dcos(abs(image_angle)));
 
