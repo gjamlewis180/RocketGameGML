@@ -5,6 +5,6 @@ if(STATE==FIRED)
 {
 	if (image_angle>-90 )
 	{
-		    image_angle+=-5;
+		image_angle+=-5;
 	}
 }

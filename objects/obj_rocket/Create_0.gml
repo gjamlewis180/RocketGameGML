@@ -3,4 +3,4 @@
 
 
 
-STATE=NO_FIRED;
+STATE=FIRED;

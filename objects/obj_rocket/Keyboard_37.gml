@@ -2,8 +2,10 @@
 // You can write your code in this editor
 
 
-
-if ( image_angle<0)
+if(STATE==FIRED)
 {
-	    image_angle+=5;
+	if ( image_angle<0)
+	{
+		image_angle+=5;
+	}
 }
