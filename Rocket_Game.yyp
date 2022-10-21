@@ -4,6 +4,7 @@
   "name": "Rocket_Game",
   "resources": [
     {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":4,},
+    {"id":{"name":"obj_gui_controller","path":"objects/obj_gui_controller/obj_gui_controller.yy",},"order":5,},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":0,},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},"order":0,},
     {"id":{"name":"spr_launch_platform","path":"sprites/spr_launch_platform/spr_launch_platform.yy",},"order":1,},
