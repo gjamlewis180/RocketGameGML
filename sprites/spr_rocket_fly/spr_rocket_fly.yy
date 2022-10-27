@@ -28,7 +28,7 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2a6216f7-b0fa-435a-bb5b-8c9f89dc63ec",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"60387274-0040-4694-a3d5-dcbf2554db13",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63475af8-c99b-4e88-b66b-52ee4883a219",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"47a44a80-df20-4e0a-a165-24221c5f858a",},
   ],
@@ -38,7 +38,7 @@
     "name": "spr_rocket_fly",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -47,7 +47,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"21234172-4d11-44a6-a932-0607db10f039","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2a6216f7-b0fa-435a-bb5b-8c9f89dc63ec","path":"sprites/spr_rocket_fly/spr_rocket_fly.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3cb2741b-c9ab-4455-b55b-7fcc456c50e4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"60387274-0040-4694-a3d5-dcbf2554db13","path":"sprites/spr_rocket_fly/spr_rocket_fly.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"91146bef-574a-4ced-ac15-70ca2fef9a23","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"63475af8-c99b-4e88-b66b-52ee4883a219","path":"sprites/spr_rocket_fly/spr_rocket_fly.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d1bd7971-a8e9-43c7-b992-7a43a3bfd5f7","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"47a44a80-df20-4e0a-a165-24221c5f858a","path":"sprites/spr_rocket_fly/spr_rocket_fly.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
