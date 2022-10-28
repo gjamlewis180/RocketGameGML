@@ -5,4 +5,4 @@
 
 STATE=Rocket_State.NOT_FIRED;
 
-
+gravity_direction=270;
