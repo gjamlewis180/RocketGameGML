@@ -1,8 +1,8 @@
-/// @description Insert description here
+/// @description 
 // You can write your code in this editor
 
 
-if(STATE==FIRED)
+if(STATE==Rocket_State.FIRED)
 {
 	if ( image_angle<0)
 	{

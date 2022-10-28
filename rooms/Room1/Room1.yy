@@ -43,6 +43,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_796166DF","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7773D7D5","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_726FA155","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_DBA2621","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6386AD6","path":"rooms/Room1/Room1.yy",},
@@ -58,7 +59,6 @@
     {"name":"inst_3F9DAC68","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7D0DD6A9","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6BF5F978","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_7773D7D5","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -45,9 +45,6 @@
   ],
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"STATE","varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"NOT_FIRED","varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"FIRING","varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"FIRED","varType":1,"value":"2","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"_mass","varType":0,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"_fuel","varType":0,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"firepower","varType":0,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},

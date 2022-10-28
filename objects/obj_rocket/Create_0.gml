@@ -3,4 +3,6 @@
 
 
 
-STATE=NOT_FIRED;
+STATE=Rocket_State.NOT_FIRED;
+
+
