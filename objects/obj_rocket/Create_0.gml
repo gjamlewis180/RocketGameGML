@@ -3,6 +3,7 @@
 
 
 
-STATE=Rocket_State.NOT_FIRED;
+STATE=Rocket_State.FIRING;
 
 gravity_direction=270;
+alarm[0]=room_speed;
