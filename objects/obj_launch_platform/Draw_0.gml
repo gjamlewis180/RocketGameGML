@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
+draw_line_width_colour(x, y,room_width, room_height, 20, c_red, c_blue);
 
-STATE=Rocket_State.FIRED;
 
-gravity_direction=270;
+draw_self()
